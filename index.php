@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/style.css">
 </head>
 <body>
     
@@ -69,7 +69,7 @@
                 </div>
                 <div class="hero-image">
                     <div class="img-wrapper">
-                        <img src="img/formal.png" alt="Viviana Gómez">
+                        <img src="<?php echo get_template_directory_uri(); ?>/img/formal.png" alt="Viviana Gómez">
                         <div class="exp-badge">
                             <i class="fas fa-code"></i> 1+ años
                         </div>
