@@ -12,6 +12,8 @@
     
 
     <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/style.css">
+
+    <?php wp_head(); ?> </head>
 </head>
 <body>
     
@@ -406,6 +408,8 @@
             </div>
         </div>
     </footer>
+
+    <?php wp_footer(); ?>
 
     <script>
         // Menú móvil
