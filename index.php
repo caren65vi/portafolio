@@ -43,7 +43,7 @@
                         <span>Disponible para proyectos</span>
                     </div>
                     <h1 class="hero-title">
-                        Hola, soy <span class="accent">Viviana Gómez</span>
+                        Hola, soy <span class="accent">Caren Viviana Gómez</span>
                     </h1>
                     <div class="hero-rol">
                         <span class="rol-text">Desarrolladora Backend</span>
